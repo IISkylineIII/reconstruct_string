@@ -1,4 +1,4 @@
-# reconstruct_string
+# Reconstruct_string
 
 # Description
 The reconstruct_string function reconstructs a string from a set of paired reads by using a de Bruijn graph approach. It constructs a paired de Bruijn graph from the provided paired reads, finds an Eulerian path within the graph, and reconstructs the original string from that path. This method is commonly used in bioinformatics for genome assembly tasks.
